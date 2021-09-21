@@ -15,5 +15,4 @@
 
 ## Дополнительные материалы
 
-[Java Классы и Объекты - написание собственных классов, конструкторы (javarush.ru)](https://javarush.ru/groups/posts/1949-znakomstvo-s-klassami-napisanie-sobstvennihkh-klassov-konstruktorih)
-
+[Java Классы и Объекты - написание собственных классов, конструкторы (javarush.ru)](https://javarush.ru/groups/posts/1949-znakomstvo-s-klassami-napisanie-sobstvennihkh
